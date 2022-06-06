@@ -45,7 +45,7 @@ const Home = () => {
                                 filename: 'data/rome-aribnb-data_small_noHostSince.csv'
                             }
                         }}>
-                        <button className='button button-home'>Rome Paper</button>
+                        <button className='button button-home'>Rome Dataset</button>
                     </Link>
                 </div>
             </div>
