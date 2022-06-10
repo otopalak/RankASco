@@ -5,6 +5,6 @@ https://www.ifi.uzh.ch/en/ivda/research/ranking-creation.html
 
 A running version of the tool can be found [here](https://rankasco-ivda.ifi.uzh.ch/home).
 
-Questions about the Code can be sent directly at the IVDA team (Jenny Schmid).
+Questions about the code can be sent directly to the IVDA team ([Jenny Schmid](https://www.ifi.uzh.ch/en/ivda/team/schmid.html)).
 
 This project is licensed under the terms of the MIT license.
